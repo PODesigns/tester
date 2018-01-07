@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+background-color: orange; 
+}
+
+h1 {
+  color: blue;
+  font-style: italic;
+}
